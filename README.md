@@ -1,4 +1,4 @@
-## My Certificates
+## Sertifikalarım
 
 🔥🚀
 
