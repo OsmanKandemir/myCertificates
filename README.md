@@ -2,7 +2,7 @@
 
 🔥🚀
 
-|                   Name                     |    Organization     |               Link                   |
+|                   İsim                     |    Organizasyon     |               Link                   |
 | :----------------------------------------: | :-----------------: | :----------------------------------- |
 | ISO 27001 Bilgi Güvenliği Yönetim Sistemi  | Boğaziçi Enstitüsü  | https://istanbulbogazicienstitu.com/ |
 | Dijital Çağda Stratejik Düşünme Teknikleri | Boğaziçi Enstitüsü  | https://istanbulbogazicienstitu.com/ |
