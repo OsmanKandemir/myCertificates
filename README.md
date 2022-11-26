@@ -12,3 +12,6 @@
 | Reverse Engineering                        | BTK                 | https://www.btk.gov.tr/              |  
 | Versiyon Kontrolleri: Git ve GitHub        | BTK Akademi         | https://www.btkakademi.gov.tr/       |  
 | Siber Güvenliğe Giriş                      | Cisco - Netcad      | https://www.netacad.com/             | 
+| Cisco LABS Crash Course                    | Codered - Eccouncil | https://codered.eccouncil.org/       | 
+
+
