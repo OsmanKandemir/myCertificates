@@ -5,6 +5,7 @@
 
 |                   İsim                     |    Organizasyon             |               Link                   |
 | :----------------------------------------: | :-----------------:         | :----------------------------------- |
+| Cyber Threat Intelligence                  | Coursera - IBM              | https://www.coursera.org/            |
 | ISO 27001 Bilgi Güvenliği Yönetim Sistemi  | Boğaziçi Enstitüsü          | https://istanbulbogazicienstitu.com/ |
 | Dijital Çağda Stratejik Düşünme Teknikleri | Boğaziçi Enstitüsü          | https://istanbulbogazicienstitu.com/ |
 | A'dan Z'ye Cisco CCNA 200 - 301            | Udemy                       | https://udemy.com/                   |
