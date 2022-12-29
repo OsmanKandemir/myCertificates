@@ -1,9 +1,4 @@
-## Sertifikalarım
-
-🔥🚀
-
-
-|                   İsim                     |    Organizasyon             |               Link                   |
+|                   Name                     |    Organization             |               Link                   |
 | :----------------------------------------: | :-----------------:         | :----------------------------------- |
 | Cyber Threat Intelligence                  | Coursera - IBM              | https://www.coursera.org/            |
 | ISO 27001 Bilgi Güvenliği Yönetim Sistemi  | Boğaziçi Enstitüsü          | https://istanbulbogazicienstitu.com/ |
@@ -17,6 +12,3 @@
 | Cisco LABS Crash Course                    | Codered - Eccouncil         | https://codered.eccouncil.org/       |
 | Ethical Hacking Essentials (EHE)           | Codered - Eccouncil         | https://codered.eccouncil.org/       |
 | Python Traning (Advanced)                  | Istanbul Business Institute | https://www.iienstitu.com/           |
-
-
-
