@@ -1,8 +1,9 @@
 |                   Name                     |    Organization             |               Link                   |
 | :----------------------------------------: | :-----------------:         | :----------------------------------- |
-| Packet Tracer course                       | Cisco Networking Academy    | https://www.netacad.com/             |
+| Packet Tracer Course                       | Cisco Networking Academy    | https://www.netacad.com/             |
 | ISO 27001 Bilgi Güvenliği Yönetim Sistemi  | Boğaziçi Enstitüsü          | https://istanbulbogazicienstitu.com/ |
 | Dijital Çağda Stratejik Düşünme Teknikleri | Boğaziçi Enstitüsü          | https://istanbulbogazicienstitu.com/ |
+| Siber Güvenlik Tehdit Alanı                | Linkedin Learning           | https://www.linkedin.com/            |
 | A'dan Z'ye Cisco CCNA 200 - 301            | Udemy                       | https://udemy.com/                   |
 | İş Bankası ProSchool IT Class              | Toptalent                   | https://toptalent.co/                |
 | Reverse Engineering                        | BTK                         | https://www.btk.gov.tr/              |  
